@@ -1,0 +1,7 @@
+C:\Users\Stage1\source\repos\AnagrafeV2\AnagrafeV2\bin\Debug\AnagrafeV2.exe.config
+C:\Users\Stage1\source\repos\AnagrafeV2\AnagrafeV2\bin\Debug\AnagrafeV2.exe
+C:\Users\Stage1\source\repos\AnagrafeV2\AnagrafeV2\bin\Debug\AnagrafeV2.pdb
+C:\Users\Stage1\source\repos\AnagrafeV2\AnagrafeV2\obj\Debug\AnagrafeV2.csprojAssemblyReference.cache
+C:\Users\Stage1\source\repos\AnagrafeV2\AnagrafeV2\obj\Debug\AnagrafeV2.csproj.CoreCompileInputs.cache
+C:\Users\Stage1\source\repos\AnagrafeV2\AnagrafeV2\obj\Debug\AnagrafeV2.exe
+C:\Users\Stage1\source\repos\AnagrafeV2\AnagrafeV2\obj\Debug\AnagrafeV2.pdb
