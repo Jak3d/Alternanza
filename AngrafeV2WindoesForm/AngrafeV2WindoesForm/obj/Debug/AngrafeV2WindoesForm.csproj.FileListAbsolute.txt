@@ -1,0 +1,10 @@
+C:\Users\Stage1\source\repos\AngrafeV2WindoesForm\AngrafeV2WindoesForm\bin\Debug\AngrafeV2WindoesForm.exe.config
+C:\Users\Stage1\source\repos\AngrafeV2WindoesForm\AngrafeV2WindoesForm\bin\Debug\AngrafeV2WindoesForm.exe
+C:\Users\Stage1\source\repos\AngrafeV2WindoesForm\AngrafeV2WindoesForm\bin\Debug\AngrafeV2WindoesForm.pdb
+C:\Users\Stage1\source\repos\AngrafeV2WindoesForm\AngrafeV2WindoesForm\obj\Debug\AngrafeV2WindoesForm.csprojAssemblyReference.cache
+C:\Users\Stage1\source\repos\AngrafeV2WindoesForm\AngrafeV2WindoesForm\obj\Debug\AngrafeV2WindoesForm.Form1.resources
+C:\Users\Stage1\source\repos\AngrafeV2WindoesForm\AngrafeV2WindoesForm\obj\Debug\AngrafeV2WindoesForm.Properties.Resources.resources
+C:\Users\Stage1\source\repos\AngrafeV2WindoesForm\AngrafeV2WindoesForm\obj\Debug\AngrafeV2WindoesForm.csproj.GenerateResource.cache
+C:\Users\Stage1\source\repos\AngrafeV2WindoesForm\AngrafeV2WindoesForm\obj\Debug\AngrafeV2WindoesForm.csproj.CoreCompileInputs.cache
+C:\Users\Stage1\source\repos\AngrafeV2WindoesForm\AngrafeV2WindoesForm\obj\Debug\AngrafeV2WindoesForm.exe
+C:\Users\Stage1\source\repos\AngrafeV2WindoesForm\AngrafeV2WindoesForm\obj\Debug\AngrafeV2WindoesForm.pdb
